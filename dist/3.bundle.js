@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{40:function(e,n,a){e.exports=a.p+"8efe2a512fac76b4307e2dff27744651.png"},41:function(e,n,a){"use strict";a.r(n);var t=a(0),o=a.n(t),c=a(40),i=a.n(c);n.default=function(){return o.a.createElement("div",null,"I am Loki",o.a.createElement("img",{src:i.a,alt:"logo"}))}}}]);
